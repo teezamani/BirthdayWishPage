@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+
+canvas{display:block}
+h1 {
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 3em;
+  font-weight: 600;
+  -webkit-user-select: none;
+  user-select: none;
+  width: 50%;
+}
+/* 
+#cake{
+  position: absolute;
+  font-size: 4em;
+  text-align: center;
+  top: 22%;
+  left: 48%;
+} */
